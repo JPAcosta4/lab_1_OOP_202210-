@@ -3,3 +3,5 @@ probando primer laboratorio
 cambiando algo de mi commit para ponerlo despues en git 
 
 no me funciono asi que lo cambio de nuevo 
+
+cambiando lo del commit 
